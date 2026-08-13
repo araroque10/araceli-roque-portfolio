@@ -1,5 +1,14 @@
 # Araceli Roque | Machine Learning & Medical AI Portfolio
 
+## Education
+
+- **M.Sc. in Computational Sciences**  
+  INAOE / INALE, Mexico  
+  Focus: machine learning, medical imaging, computer vision, and artificial intelligence.
+
+- **B.Sc. in Computer Science**  
+  Universidad Autónoma Benito Juárez de Oaxaca (UABJO), Mexico
+
 Portfolio of academic and applied projects in machine learning, medical imaging, computer vision, optimization, and artificial intelligence.
 
 ## Featured Projects
