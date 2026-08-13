@@ -2,10 +2,6 @@
 
 Portfolio of academic and applied projects in machine learning, medical imaging, computer vision, optimization, and artificial intelligence.
 
-## About This Repository
-
-This repository organizes selected implementations, notebooks, and technical reports into a professional portfolio format for job applications and technical review.
-
 ## Featured Projects
 
 | Project | Area | Main Files |
