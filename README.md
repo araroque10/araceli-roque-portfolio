@@ -3,7 +3,7 @@
 ## Education
 
 - **M.Sc. in Computational Sciences**  
-  INAOE / INALE, Mexico  
+  INAOE, Mexico  
   Focus: machine learning, medical imaging, computer vision, and artificial intelligence.
 
 - **B.Sc. in Computer Science**  
