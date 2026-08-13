@@ -1,0 +1,38 @@
+# Araceli Roque | Machine Learning & Medical AI Portfolio
+
+Portfolio of academic and applied projects in machine learning, medical imaging, computer vision, optimization, and artificial intelligence.
+
+## About This Repository
+
+This repository organizes selected implementations, notebooks, and technical reports into a professional portfolio format for job applications and technical review.
+
+## Featured Projects
+
+| Project | Area | Main Files |
+|---|---|---|
+| [Medical Image Generation GAN](projects/medical-image-generation-gan) | Deep Learning, Medical Imaging, GANs | Python training code, thesis report |
+| [Medical Image Segmentation](projects/medical-image-segmentation-deep-learning) | Computer Vision, Deep Learning | Jupyter notebook, final report |
+| [AI Search Algorithms Robot](projects/ai-search-algorithms-robot) | Artificial Intelligence, Search Algorithms | Python implementation, report |
+| [ML Image Classification](projects/machine-learning-image-classification) | Machine Learning, Image Classification | Reports |
+| [Evolutionary Algorithms & Optimization](projects/evolutionary-algorithms-optimization) | Optimization, Genetic Algorithms | Reports |
+| [Statistical & Image Processing Analysis](projects/statistical-and-image-processing-analysis) | Statistics, Image Processing | Reports |
+
+## Technical Skills Represented
+
+- Python
+- PyTorch
+- Deep learning
+- GANs
+- Computer vision
+- Medical image analysis
+- Image processing
+- Machine learning classification
+- Artificial intelligence search algorithms
+- Evolutionary algorithms
+- Statistical analysis
+
+## Notes
+
+Some projects were developed as academic coursework or thesis work. Reports are included when available to provide methodological context, results, and motivation.
+
+Large datasets, trained model checkpoints, generated outputs, and cache files are intentionally excluded from version control.
