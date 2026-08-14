@@ -1,4 +1,4 @@
-# Araceli Roque | Machine Learning & Medical AI Portfolio
+# ROQUEH A | Machine Learning & Medical AI Portfolio
 
 ## Education
 
